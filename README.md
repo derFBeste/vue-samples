@@ -2,6 +2,8 @@
 
 > Sample Vue components.
 
+This repo contains code samples from my website: https://besteman.net
+
 ## Build Setup
 
 ``` bash
